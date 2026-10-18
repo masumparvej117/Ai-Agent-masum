@@ -1,0 +1,8 @@
+{
+  "name": "Remix Masum AI — Personal AI Agent",
+  "description": "Futuristic Cyberpunk personal AI assistant with Windows PC \u0026 Android companion architecture, English command center UI, and multilingual AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
